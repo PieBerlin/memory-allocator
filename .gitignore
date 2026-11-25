@@ -1,0 +1,3 @@
+memory-allocator
+*.o
+.heap.asm.swp
